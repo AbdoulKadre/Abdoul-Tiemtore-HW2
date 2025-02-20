@@ -1,1 +1,0 @@
-# CS370-Homework-2-Working-with-fork-exec-and-wait-.
