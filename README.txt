@@ -1,4 +1,4 @@
-In this homework I crested two programs: Coordinator and Checker.
+In this homework I created two programs: Coordinator and Checker.
 
 The Coordinator is responsible for launching 4 processes that it will load with the Checker program.
 
